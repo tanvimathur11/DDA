@@ -49,7 +49,7 @@
 * Converting Categorical to Numeric Variable
     * One-Hot Encoding
     * Dummy Variable Substitution
-* Scaling
+* Scaling [srini]
     * Transform the Values to Small scal (0 to 1)
         * Mean Max Scaling
         * Standardization Scaling
